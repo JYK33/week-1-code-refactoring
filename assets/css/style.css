@@ -72,6 +72,31 @@ p {
 }
 /*  */
 
+/* main content styling */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.contents {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.contents img {
+    max-height: 200px;
+}
+
+.contents h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* aside styling */
 .benefits {
     margin-right: 20px;
@@ -101,30 +126,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* main content styling */
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
-.contents {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.contents img {
-    max-height: 200px;
-}
-
-.contents h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 /* footer styling */
 footer {
     padding: 30px;
